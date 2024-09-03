@@ -1,5 +1,5 @@
 # 👤 About Me: 
-Hi, I’m Manthan Gigoo, a dedicated software developer with over a year of experience in building dynamic web applications and product detail pages. My technical toolkit includes JavaScript, React.js, Node.js, C++, MySQL, and Google Cloud Platform. I'm committed to delivering exceptional user experiences and constantly learning new technologies. I thrive on collaboration and am excited to contribute to innovative projects and open-source initiatives.
+Hi, I’m Manthan Gigoo 😊, a dedicated software developer with over a year of experience in building dynamic web applications💻. My technical toolkit includes JavaScript, React.js, Node.js, C++, MySQL, and Google Cloud Platform. I'm committed to delivering exceptional user experiences and constantly learning new technologies. I thrive on collaboration and am excited to contribute to innovative projects and open-source initiatives. 🧑‍💻
 
 💡 What I’m Passionate About: I’m deeply committed to software development, with a focus on building efficient, scalable, and user-friendly applications. I’m currently exploring the MERN stack and Node with SQL, continually refining my skills to create impactful solutions.
 
@@ -7,7 +7,7 @@ Hi, I’m Manthan Gigoo, a dedicated software developer with over a year of expe
 
 📬 Get in Touch:
 
-  - Email: Reach out to me via [Gmail](mailto:manthangigoo10@gmail.com)
+  - Email: Reach out to me via [Gmail](mailto:manthangigoo10@gmail.com) 
   - LinkedIn: Connect with me on [LinkedIn](https://linkedin.com/in/manthangigoo)
 
 💻 My Work & Profiles:
